@@ -1,4 +1,4 @@
-### Hi there, my name is Gabriel 👋
+### Hi, my name is Gabriel 👋
 
 - 🔭 I’m currently working on LMTS
 
